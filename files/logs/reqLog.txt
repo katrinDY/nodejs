@@ -1,0 +1,5 @@
+2025-05-16	16:35:02	37f3592f-2008-4ec8-a619-10b63b70839b	/new-page.html	GET
+2025-05-16	16:35:02	d68ac3fa-3750-435d-85c5-e1879d9916fb	/css/style.css	GET
+2025-05-16	16:35:02	cde0b2a7-ae8e-4c5d-8e81-a59a52d2de3b	/img/mountain-landscape.jpg	GET
+2025-05-16	16:35:02	6f227fa0-8ebf-4469-860b-719b123670b9	/favicon.ico	GET
+2025-05-16	16:43:55	7064a3dd-bd34-453a-806d-fefab37c6020	/new-page.html	GET
